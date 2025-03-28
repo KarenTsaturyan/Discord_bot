@@ -1,0 +1,14 @@
+C:\Users\GBM\source\repos\DiscordBot_Ecommerce\DiscordBot_Ecommerce\bin\Debug\net8.0\DiscordBot_Ecommerce.exe
+C:\Users\GBM\source\repos\DiscordBot_Ecommerce\DiscordBot_Ecommerce\bin\Debug\net8.0\DiscordBot_Ecommerce.deps.json
+C:\Users\GBM\source\repos\DiscordBot_Ecommerce\DiscordBot_Ecommerce\bin\Debug\net8.0\DiscordBot_Ecommerce.runtimeconfig.json
+C:\Users\GBM\source\repos\DiscordBot_Ecommerce\DiscordBot_Ecommerce\bin\Debug\net8.0\DiscordBot_Ecommerce.dll
+C:\Users\GBM\source\repos\DiscordBot_Ecommerce\DiscordBot_Ecommerce\bin\Debug\net8.0\DiscordBot_Ecommerce.pdb
+C:\Users\GBM\source\repos\DiscordBot_Ecommerce\DiscordBot_Ecommerce\obj\Debug\net8.0\DiscordBot_Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GBM\source\repos\DiscordBot_Ecommerce\DiscordBot_Ecommerce\obj\Debug\net8.0\DiscordBot_Ecommerce.AssemblyInfoInputs.cache
+C:\Users\GBM\source\repos\DiscordBot_Ecommerce\DiscordBot_Ecommerce\obj\Debug\net8.0\DiscordBot_Ecommerce.AssemblyInfo.cs
+C:\Users\GBM\source\repos\DiscordBot_Ecommerce\DiscordBot_Ecommerce\obj\Debug\net8.0\DiscordBot_Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\GBM\source\repos\DiscordBot_Ecommerce\DiscordBot_Ecommerce\obj\Debug\net8.0\DiscordBot_Ecommerce.dll
+C:\Users\GBM\source\repos\DiscordBot_Ecommerce\DiscordBot_Ecommerce\obj\Debug\net8.0\refint\DiscordBot_Ecommerce.dll
+C:\Users\GBM\source\repos\DiscordBot_Ecommerce\DiscordBot_Ecommerce\obj\Debug\net8.0\DiscordBot_Ecommerce.pdb
+C:\Users\GBM\source\repos\DiscordBot_Ecommerce\DiscordBot_Ecommerce\obj\Debug\net8.0\DiscordBot_Ecommerce.genruntimeconfig.cache
+C:\Users\GBM\source\repos\DiscordBot_Ecommerce\DiscordBot_Ecommerce\obj\Debug\net8.0\ref\DiscordBot_Ecommerce.dll

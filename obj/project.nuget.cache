@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WB+wpfJMLpk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GBM\\source\\repos\\DiscordBot_Ecommerce\\DiscordBot_Ecommerce\\DiscordBot_Ecommerce.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GBM\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.14\\microsoft.windowsdesktop.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\GBM\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.14\\microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\GBM\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.14\\microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\GBM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.14\\microsoft.netcore.app.host.win-x64.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
